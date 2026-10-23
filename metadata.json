@@ -1,0 +1,6 @@
+{
+  "name": "PureTube",
+  "description": "YouTube без рекламы: быстрый просмотр видео без рекламы, фоновое воспроизведение, история и подписки.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

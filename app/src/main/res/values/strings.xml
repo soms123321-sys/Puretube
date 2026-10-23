@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">PureTube</string>
+    <string name="ad_free_badge">БЕЗ РЕКЛАМЫ</string>
+    <string name="nav_home">Главная</string>
+    <string name="nav_trending">В тренде</string>
+    <string name="nav_subscriptions">Подписки</string>
+    <string name="nav_library">Библиотека</string>
+    <string name="search_hint">Поиск видео на YouTube…</string>
+    <string name="play">Смотреть</string>
+    <string name="pause">Пауза</string>
+    <string name="quality">Качество</string>
+    <string name="speed">Скорость</string>
+    <string name="background_mode">Фоновый звук</string>
+    <string name="pip_mode">Мини-плеер</string>
+    <string name="subscribe">Подписаться</string>
+    <string name="subscribed">Вы подписаны</string>
+    <string name="watch_later">Смотреть позже</string>
+    <string name="history">История</string>
+    <string name="clear_history">Очистить историю</string>
+    <string name="saved_videos">Сохранённые</string>
+    <string name="no_ads_status">100% блокировка рекламы активна</string>
+</resources>
